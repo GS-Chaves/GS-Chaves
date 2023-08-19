@@ -19,6 +19,5 @@ Engenharia de Software (Cursando).
 
 Procurando minha primeira oportunidade no mercado de trabalho!
 
-<q>
-A única maneira de fazer algo excelente é amar o que você faz. Se você ainda não a encontrou, continue procurando. Não se acomode.
-</q> - Steve Jobs
+
+"A única maneira de fazer algo excelente é amar o que você faz. Se você ainda não a encontrou, continue procurando. Não se acomode." -Steve Jobs
