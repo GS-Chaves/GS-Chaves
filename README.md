@@ -5,9 +5,13 @@ Engenharia de Software (Cursando).
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gs_chaves01?igshid=MzNlNGNkZWQ4Mg==)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.chaves66@gmail.com)
 
-<br/>
+<br>
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiChavesDeveloper&show_icons=true&theme=tokyonight)
+<div>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GuiChavesDeveloper&show_icons=true&theme=tokyonight" alt="Status de Guilherme Chaves"/>
+    <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiChavesDeveloper&layout=compact&hide_border=true&title_color=B0C4DE&text_color=B0C4DE&bg_color=0d1117" alt="Linguagens mais usadas por Guilherme Chaves"/>
+</div><br/>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuiChavesDeveloper&bg_color=0d1117&color=B0C4DE&line=7FFF00&point=B0C4DE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Tecnologias do meu dia a dia!
