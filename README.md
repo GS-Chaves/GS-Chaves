@@ -8,6 +8,7 @@ Engenharia de Software (Cursando).
 <br/>
 
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiChavesDeveloper&show_icons=true&theme=tokyonight)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuiChavesDeveloper&bg_color=0d1117&color=B0C4DE&line=7FFF00&point=B0C4DE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Tecnologias do meu dia a dia!
 
@@ -22,3 +23,20 @@ Procurando minha primeira oportunidade no mercado de trabalho!
 
 
 "A única maneira de fazer algo excelente é amar o que você faz. Se você ainda não a encontrou, continue procurando. Não se acomode." - Steve Jobs
+
+<div align="center">
+    <br>
+    <p 
+        align="center">
+        <b> Visitors count in my profile </b>
+    </p>  
+    <p 
+        align="center">
+        <img 
+            align="center" 
+            src="https://profile-counter.glitch.me/{GuiChavesDeveloper}/count.svg" 
+            alt="Visitors count of my profile"
+        />
+    </p> 
+<br>
+</div>
