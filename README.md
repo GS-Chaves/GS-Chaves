@@ -2,7 +2,7 @@
 Engenharia de Software (Cursando).
 <div >
    
-   <a href="https://gs-chaves.github.io/Portifolio/">Meu Portifolio</a>
+   <a target="blank" href="https://gs-chaves.github.io/Portifolio/">Meu Portifolio</a>
 </div>
 
 
