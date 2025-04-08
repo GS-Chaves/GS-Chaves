@@ -41,10 +41,7 @@ No activity tracked
     <img align="center" alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div><br/>
 
-Procurando minha primeira oportunidade no mercado de trabalho!
-
-
-"A única maneira de fazer algo excelente é amar o que você faz. Se você ainda não a encontrou, continue procurando. Não se acomode." - Steve Jobs
+"When something is important enough, you do it even if the odds are not in your favor." - Elon Musk
 
 <div align="center">
     <br>
