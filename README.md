@@ -13,6 +13,12 @@ Software Engineering (loading...)
     <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GS-Chaves&layout=compact&hide_border=true&title_color=B0C4DE&text_color=B0C4DE&bg_color=0d1117" alt="Linguagens mais usadas por Guilherme Chaves"/>
 </div><br/>
 
+### 📊 WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ## Tecnologias do meu dia a dia!
 
 <div style="display: inline_block">
