@@ -7,7 +7,6 @@
 
 <div>
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GS-Chaves&show_icons=true&theme=tokyonight" alt="Status de Guilherme Chaves"/>
-    <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GS-Chaves&layout=compact&hide_border=true&title_color=B0C4DE&text_color=B0C4DE&bg_color=0d1117" alt="Linguagens mais usadas por Guilherme Chaves"/>
 </div><br/>
 
 ### 📊 WakaTime Stats
