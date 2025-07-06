@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```scala
-From: 08 April 2025 - To: 04 July 2025
+From: 08 April 2025 - To: 05 July 2025
 
 Total Time: 107 hrs 9 mins
 
