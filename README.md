@@ -44,20 +44,3 @@ Other             1 hr 49 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </div><br/>
 
 "When something is important enough, you do it even if the odds are not in your favor." - Elon Musk
-
-<div align="center">
-    <br>
-    <p 
-        align="center">
-        <b> Visitors count in my profile </b>
-    </p>  
-    <p 
-        align="center">
-        <img 
-            align="center" 
-            src="https://profile-counter.glitch.me/{GuiChavesDeveloper}/count.svg" 
-            alt="Visitors count of my profile"
-        />
-    </p> 
-<br>
-</div>
