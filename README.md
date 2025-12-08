@@ -5,10 +5,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Guilherme_Chaves01)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/gschaves)
 
-<div>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GS-Chaves&show_icons=true&theme=tokyonight" alt="Status de Guilherme Chaves"/>
-</div><br/>
-
 ### 📊 WakaTime Stats
 
 <!--START_SECTION:waka-->
